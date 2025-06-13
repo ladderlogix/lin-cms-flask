@@ -1,1 +1,2 @@
 cos-python-sdk-v5==1.9.20
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
